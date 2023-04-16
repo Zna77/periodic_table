@@ -5,7 +5,7 @@ This is a project I created to showcase my HTML and CSS skills. It's a visually 
 ## Features
 
 - Interactive hover effects to display the name and atomic number of each element
-- Color-coded categories to help with element classification
+- Glassmorphisme effect to make the elements more neat and aestheric
 - Responsive design that adapts to different screen sizes
 
 ## Technologies Used
